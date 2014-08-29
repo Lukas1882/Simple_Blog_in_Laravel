@@ -1,3 +1,6 @@
+This is a basic blog modle based on Laravel framework. Implemented the functions to let user login, post and leave message.
+Still have some issues with router resource setting to be fixed.
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
