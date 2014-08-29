@@ -1,0 +1,42 @@
+.image {
+  font-size: 0;
+  text-align: center;
+  width: 200px;  /* Container's dimensions */
+  height: 150px;
+}
+img {
+  display: inline-block;
+  vertical-align: middle;
+  max-height: 100%;
+  max-width: 100%;
+}
+.trick {
+  display: inline-block;
+  vertical-align: middle;
+  height: 150px;
+}
+
+.div
+{
+height:100px;
+width:100px;
+background:  no-repeat 100% 100%;
+
+
+}
+
+backme
+{
+  background: url('login2.jpg') no-repeat; 
+  background-size: 100%;
+}
+
+
+.lefty
+{
+  float:left;width:70%;
+}
+.righty
+{
+  float:right;width:30%
+}
